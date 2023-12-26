@@ -1,0 +1,10 @@
+<map id="Exiv2::Slice&lt; const T * &gt;" name="Exiv2::Slice&lt; const T * &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="906,13,1039,56"/>
+<area shape="rect" id="Node000002" href="$structExiv2_1_1Internal_1_1ConstSliceBase.html" title=" " alt="" coords="648,5,857,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="872,32,906,32,906,37,872,37"/>
+<area shape="rect" id="Node000003" href="$structExiv2_1_1Internal_1_1SliceBase.html" title=" " alt="" coords="5,23,175,49"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,28,391,21,624,23,648,24,648,29,624,28,391,27,190,33"/>
+<area shape="rect" id="Node000004" href="$structExiv2_1_1Internal_1_1ConstSliceBase.html" title="This class provides the public&#45;facing const&#45;qualified methods of a slice." alt="" coords="224,44,439,87"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="191,46,224,50,223,55,190,51"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,63,538,61,624,55,648,52,648,57,625,60,539,66,455,69"/>
+</map>

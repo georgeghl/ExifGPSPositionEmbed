@@ -1,0 +1,7 @@
+<map id="Exiv2::XmpTextValue" name="Exiv2::XmpTextValue">
+<area shape="rect" id="Node000001" title="Value type suitable for simple XMP properties and XMP nodes of complex types which are not parsed int..." alt="" coords="5,155,149,181"/>
+<area shape="rect" id="Node000002" href="$classExiv2_1_1XmpValue.html" title="Base class for all Exiv2 values used to store XMP property values." alt="" coords="18,80,136,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,122,80,154,74,154,74,122"/>
+<area shape="rect" id="Node000003" href="$classExiv2_1_1Value.html" title="Common interface for all types of values used with metadata." alt="" coords="30,5,124,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,48,80,80,74,80,74,48"/>
+</map>

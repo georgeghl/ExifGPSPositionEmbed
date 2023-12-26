@@ -1,0 +1,29 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classExiv2_1_1Internal_1_1MnHeader.html" title="Makernote header interface. This class is used with TIFF makernotes." alt="" coords="5,397,175,424"/>
+<area shape="rect" id="Node000001" href="$classExiv2_1_1Internal_1_1Casio2MnHeader.html" title="Header of a Casio2 Makernote." alt="" coords="238,5,407,48"/>
+<area shape="poly" id="edge34_Node000000_Node000001" title=" " alt="" coords="91,382,101,316,123,230,140,184,162,138,188,96,221,58,236,46,239,51,224,62,193,99,166,141,145,186,128,231,106,317,97,383"/>
+<area shape="rect" id="Node000002" href="$classExiv2_1_1Internal_1_1FujiMnHeader.html" title="Header of a Fujifilm Makernote." alt="" coords="227,72,418,99"/>
+<area shape="poly" id="edge35_Node000000_Node000002" title=" " alt="" coords="93,381,105,324,128,250,145,211,166,174,191,139,221,109,239,97,242,101,224,113,195,142,170,177,150,214,133,252,110,325,98,382"/>
+<area shape="rect" id="Node000003" href="$classExiv2_1_1Internal_1_1Nikon2MnHeader.html" title="Header of a Nikon 2 Makernote." alt="" coords="238,123,407,165"/>
+<area shape="poly" id="edge36_Node000000_Node000003" title=" " alt="" coords="97,381,114,337,140,281,175,225,197,198,221,175,239,164,241,168,224,179,201,202,179,228,144,284,119,339,102,383"/>
+<area shape="rect" id="Node000004" href="$classExiv2_1_1Internal_1_1Nikon3MnHeader.html" title="Header of a Nikon 3 Makernote." alt="" coords="238,189,407,232"/>
+<area shape="poly" id="edge37_Node000000_Node000004" title=" " alt="" coords="104,382,150,313,183,275,221,242,241,230,244,235,224,246,187,279,154,316,108,385"/>
+<area shape="rect" id="Node000005" href="$classExiv2_1_1Internal_1_1OMSystemMnHeader.html" title="Header of an OM Digital Solutions (ex Olympus) Makernote." alt="" coords="234,256,411,299"/>
+<area shape="poly" id="edge38_Node000000_Node000005" title=" " alt="" coords="115,385,163,346,221,308,247,297,249,302,224,313,166,351,119,389"/>
+<area shape="rect" id="Node000006" href="$classExiv2_1_1Internal_1_1Olympus2MnHeader.html" title="Header of an Olympus II Makernote." alt="" coords="238,323,407,365"/>
+<area shape="poly" id="edge39_Node000000_Node000006" title=" " alt="" coords="153,390,245,363,246,369,155,395"/>
+<area shape="rect" id="Node000007" href="$classExiv2_1_1Internal_1_1OlympusMnHeader.html" title="Header of an Olympus Makernote." alt="" coords="241,389,404,432"/>
+<area shape="poly" id="edge40_Node000000_Node000007" title=" " alt="" coords="190,408,241,408,241,413,190,413"/>
+<area shape="rect" id="Node000008" href="$classExiv2_1_1Internal_1_1PanasonicMnHeader.html" title="Header of a Panasonic Makernote." alt="" coords="237,456,408,499"/>
+<area shape="poly" id="edge41_Node000000_Node000008" title=" " alt="" coords="155,426,246,453,245,458,153,431"/>
+<area shape="rect" id="Node000009" href="$classExiv2_1_1Internal_1_1PentaxDngMnHeader.html" title="Header of an Pentax DNG Makernote." alt="" coords="235,523,410,565"/>
+<area shape="poly" id="edge42_Node000000_Node000009" title=" " alt="" coords="119,432,166,471,224,508,249,520,247,525,221,513,163,475,115,436"/>
+<area shape="rect" id="Node000010" href="$classExiv2_1_1Internal_1_1PentaxMnHeader.html" title="Header of an Pentax Makernote." alt="" coords="238,589,407,632"/>
+<area shape="poly" id="edge43_Node000000_Node000010" title=" " alt="" coords="108,436,154,505,187,543,224,575,244,587,241,591,221,580,183,547,150,509,104,439"/>
+<area shape="rect" id="Node000011" href="$classExiv2_1_1Internal_1_1SamsungMnHeader.html" title="Header of a Samsung Makernote, only used for the relative offset." alt="" coords="240,656,405,699"/>
+<area shape="poly" id="edge44_Node000000_Node000011" title=" " alt="" coords="102,438,119,483,144,538,179,594,201,619,224,642,241,653,239,658,221,646,197,623,175,597,140,540,114,485,97,440"/>
+<area shape="rect" id="Node000012" href="$classExiv2_1_1Internal_1_1SigmaMnHeader.html" title="Header of a Sigma Makernote." alt="" coords="240,723,405,765"/>
+<area shape="poly" id="edge45_Node000000_Node000012" title=" " alt="" coords="99,439,111,495,135,568,172,643,196,678,224,709,241,720,237,725,221,713,192,681,167,646,130,570,106,497,93,440"/>
+<area shape="rect" id="Node000013" href="$classExiv2_1_1Internal_1_1SonyMnHeader.html" title="Header of a Sony Makernote." alt="" coords="223,789,422,816"/>
+<area shape="poly" id="edge46_Node000000_Node000013" title=" " alt="" coords="96,439,104,508,124,599,141,647,163,694,190,738,224,775,241,787,238,791,221,779,186,741,158,697,136,649,119,600,98,509,90,440"/>
+</map>
